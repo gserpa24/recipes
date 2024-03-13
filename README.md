@@ -1,2 +1,2 @@
 # HTML Proyect about recipes
-This is a HTML Proyect about recipes using HTML Basic.
+This is an HTML project about recipes using Basic HTML.
